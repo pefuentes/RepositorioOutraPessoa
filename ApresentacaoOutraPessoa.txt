@@ -1,3 +1,4 @@
 Nome: Gabriel Marques
 Idade: 19
 Altura: 170
+Características: É meu amigo
